@@ -1,4 +1,0 @@
-      - name: Décompresser le projet
-        run: |
-          mkdir project
-          unzip -q projet.dat -d project
